@@ -1,0 +1,1 @@
+[{"Model": "Linear Regression", "MAE": 190.88, "RMSE": 298.9, "R2": 0.9726}, {"Model": "Random Forest", "MAE": 54.5, "RMSE": 149.39, "R2": 0.9931}, {"Model": "Gradient Boosting", "MAE": 87.38, "RMSE": 180.39, "R2": 0.99}, {"Model": "SVR", "MAE": 89.36, "RMSE": 235.16, "R2": 0.983}]
